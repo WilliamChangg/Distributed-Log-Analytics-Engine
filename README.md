@@ -59,7 +59,7 @@ Manages data storage lifecycle
 Routes hot data (24 hours) to Redis, cold data to PostgreSQL
 
 
-## Log Query Service (log-query)
+### Log Query Service (log-query)
 
 REST API for searching and retrieving logs
 
